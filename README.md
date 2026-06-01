@@ -10,7 +10,7 @@ This project scores all 51 Maryland hospitals across five financial health indic
 
 ## Live Dashboard
 
-[View on Tableau Public →](https://public.tableau.com/app/profile/dylan.jeon)
+[View on Tableau Public →](https://public.tableau.com/app/profile/dylan.jeon/viz/MarylandFinancialRiskDashboard2023/MDHospitalStressDashboard)
 
 ## Methodology
 
